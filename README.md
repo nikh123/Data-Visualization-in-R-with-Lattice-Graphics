@@ -1,5 +1,5 @@
 # Introduction
-Here is the coding to create a scatter plot for the Google code in
+In this assignement I am visualizing a data frame with the help of Lattice graphics by creating cloud scatter plot.
 
 # Required
 
